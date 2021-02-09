@@ -12,3 +12,6 @@ arr.each do |n|
     puts "number #{number} found"
   end
 end
+
+name = "bbb"
+puts name.count "a"
